@@ -77,11 +77,6 @@ The project includes:
 - Univariate analysis
 - Bivariate analysis
 - Multivariate analysis
-- Distribution analysis
-- GroupBy aggregation
-- Pivot table analysis
-- Correlation analysis
-- Time-based analysis
 
 Different visualizations such as histograms, bar charts, pie charts, box plots, scatter plots, line charts, and heatmaps were used to understand the data.
 
