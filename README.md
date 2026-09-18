@@ -1,6 +1,6 @@
 # E-Commerce Marketing Campaign Performance Analysis and Sales Revenue Optimization
 
-A Data-Driven Analysis of Marketing Campaign Performance and Sales Revenue
+Analysis of Marketing Campaign Performance and Sales Revenue
 
 ## Tools & Technologies
 
